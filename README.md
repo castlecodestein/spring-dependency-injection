@@ -14,4 +14,4 @@ Covered sections:
 
 Each case is accompanied by an integration test suite.
 
-More information to be found in javadoc and on [Castle Codestein](castlecodestein.com).
+More information to be found in javadoc and on [Castle Codestein](http://www.castlecodestein.com).
